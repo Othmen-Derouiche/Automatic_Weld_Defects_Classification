@@ -1,0 +1,6 @@
+path: /content/drive/MyDrive/Stage/Stage Falcon/test_1/data
+train: images/train
+val: images/val
+
+nc: 1
+names: ['weld_defect']
